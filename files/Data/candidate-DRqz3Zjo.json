@@ -1,0 +1,212 @@
+{
+    "additionalSections": null,
+    "atsData": null,
+    "atsEntityId": null,
+    "awards": [],
+    "certificates": [],
+    "customFields": {},
+    "customInfo": {},
+    "dupeData": {},
+    "education": [
+        {
+            "awards": [],
+            "degree": "Master of Science in Data Analytics",
+            "description": "Master of Science in Data Analytics\r\n| New York University, NY\r\n| 2010",
+            "endTime": 1262304000,
+            "location": "",
+            "major": "Data Analytics",
+            "school": "New York University",
+            "startTime": 0
+        }
+    ],
+    "educationLevel": "Masters",
+    "efGender": "female",
+    "efRace": "white",
+    "email": "emma.smith@mailinator.com",
+    "employeeInfo": {
+        "employeeId": null,
+        "performanceManagement": {
+            "performanceRatings": [],
+            "promotionReadiness": null
+        },
+        "relocationPreferences": null,
+        "successionPlan": {
+            "leaderWithoutPathForward": "True",
+            "successionPlanId": null,
+            "successionPlanMetrics": {
+                "readiness": {
+                    "ready_later": 0,
+                    "ready_now": 0,
+                    "ready_soon": 0
+                }
+            },
+            "successionPlanNotes": [],
+            "successionPlanRole": null,
+            "successors": []
+        }
+    },
+    "endorsements": [],
+    "experiences": [
+        {
+            "addlJson": {
+                "src": "resume"
+            },
+            "department": null,
+            "description": "*\tLed the creation of high-profile reports, providing actionable insights to stakeholders.\r\n*\tUtilized SQL, Python, and Pandas for data extraction, cleaning, and analysis.\r\n*\tApplied machine learning techniques to enhance predictive analytics for financial trends.",
+            "durationMonths": 99,
+            "edited": null,
+            "endTime": 1710605749,
+            "experienceKey": null,
+            "industry": null,
+            "isCurrent": true,
+            "isInternal": null,
+            "location": "New York, NY, United States",
+            "skills": [],
+            "startTime": 1451606400,
+            "title": "Senior Data Analyst",
+            "userVerifiedSkills": false,
+            "work": "Financial Insights Corp"
+        },
+        {
+            "addlJson": {
+                "src": "resume"
+            },
+            "department": null,
+            "description": "*\tPlayed a key role in the development of comprehensive financial reports, aiding strategic decision-making.\r\n*\tImplemented algorithms for data analysis, contributing to the optimization of financial processes.\r\n*\tUtilized Tableau and Grafana for data visualization, enhancing report clarity and accessibility.",
+            "durationMonths": 73,
+            "edited": null,
+            "endTime": 1451606400,
+            "experienceKey": null,
+            "industry": null,
+            "isCurrent": false,
+            "isInternal": null,
+            "location": "New York, NY, United States",
+            "skills": [],
+            "startTime": 1262304000,
+            "title": "Data Analyst | Major",
+            "userVerifiedSkills": false,
+            "work": "Financial Institution"
+        }
+    ],
+    "firstName": "Emma",
+    "fullName": "Emma Smith",
+    "gender": "female",
+    "highlights": [],
+    "id": "DRqz3Zjo",
+    "imageUrl": "https://static.vscdn.net/profile/DRqz3Zjo/profile_img_DRqz3Zjo-1701448717.png",
+    "industries": [],
+    "internalGroupAffiliation": [],
+    "jtnAnswers": null,
+    "language": "en",
+    "lastName": "Smith",
+    "lastUpdated": 1708741626,
+    "location": "New York, New York, United States",
+    "patents": [],
+    "phone": "(555) 789-0123",
+    "preferences": {
+        "contactConsent": null
+    },
+    "profileId": 240175044,
+    "profileStagedSections": {
+        "awards": null,
+        "certificates": null,
+        "courses": null,
+        "education": null,
+        "endorsements": null,
+        "experiences": null,
+        "languageProficiencies": null,
+        "patents": null,
+        "projects": null,
+        "publications": null,
+        "skills": null
+    },
+    "projects": [],
+    "publications": [],
+    "race": null,
+    "resumeFileName": "137229597642148422-Emma Smith.docx",
+    "roleId": null,
+    "seniorityLevel": "Senior",
+    "skillGoals": [],
+    "skills": [
+        {
+            "displayName": "Regression Analysis",
+            "evaluations": [],
+            "name": "regression_analysis",
+            "source": null
+        },
+        {
+            "displayName": "Data Science",
+            "evaluations": [],
+            "name": "data_science",
+            "source": null
+        },
+        {
+            "displayName": "Data Visualization",
+            "evaluations": [],
+            "name": "data_visualization",
+            "source": null
+        },
+        {
+            "displayName": "Data Analytics",
+            "evaluations": [],
+            "name": "data_analytics",
+            "source": null
+        },
+        {
+            "displayName": "Statistical Analysis",
+            "evaluations": [],
+            "name": "statistical_analysis",
+            "source": null
+        },
+        {
+            "displayName": "Machine Learning",
+            "evaluations": [],
+            "name": "machine_learning",
+            "source": null
+        },
+        {
+            "displayName": "Python",
+            "evaluations": [],
+            "name": "python",
+            "source": null
+        },
+        {
+            "displayName": "Algorithms",
+            "evaluations": [],
+            "name": "algorithms",
+            "source": null
+        },
+        {
+            "displayName": "SQL",
+            "evaluations": [],
+            "name": "sql",
+            "source": null
+        },
+        {
+            "displayName": "Financial Analysis",
+            "evaluations": [],
+            "name": "financial_analysis",
+            "source": null
+        },
+        {
+            "displayName": "Strategic Planning",
+            "evaluations": [],
+            "name": "strategic_planning",
+            "source": null
+        }
+    ],
+    "sources": [
+        {
+            "datetime": "2023-11-28T22:15:01+00:00",
+            "sourceName": "api@eightfolddemo-nformal.com",
+            "sourceType": "import"
+        }
+    ],
+    "summary": "",
+    "title": "",
+    "urls": [
+        "https://www.volkscience.com/profile/DRqz3Zjo?export=import/eightfolddemo-nformal.com/b33e151440308de6dae267b558938c312e3e950ad4ccf0070b4a37fd-240175044.docx",
+        "https://www.volkscience.com/profile/DRqz3Zjo"
+    ],
+    "workExperienceYears": 14.2
+}

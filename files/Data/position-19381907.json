@@ -1,0 +1,23 @@
+{
+    "calibrationConfirmedAt": 1701211832,
+    "calibrationConfirmedBy": "api@eightfolddemo-nformal.com",
+    "confidential": false,
+    "createdBy": "nFormal",
+    "followers": [],
+    "groupId": "eightfolddemo-nformal.com",
+    "hiringManager": {
+        "email": null,
+        "name": null
+    },
+    "jobDescription": null,
+    "name": "Full Stack Software Engineer",
+    "open": true,
+    "positionDisplayId": null,
+    "positionId": 19381907,
+    "recruiter": {
+        "email": "api@eightfolddemo-nformal.com",
+        "name": "Api User"
+    },
+    "role": null,
+    "systemId": null
+}

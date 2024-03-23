@@ -1,0 +1,265 @@
+{
+    "additionalSections": null,
+    "atsData": null,
+    "atsEntityId": null,
+    "awards": [],
+    "certificates": [],
+    "customFields": {},
+    "customInfo": {},
+    "dupeData": {
+        "deleted_profile_ids": [
+            269649246
+        ],
+        "profile_ids": [
+            269647539
+        ]
+    },
+    "education": [
+        {
+            "awards": [],
+            "degree": "MS in Statistics",
+            "description": "MS in Statistics, Education Policy + MS\r\nUC Irvine\r\nJan 2013 to Jan 2017",
+            "endTime": 1483228800,
+            "location": "",
+            "major": "Education Policy + MS",
+            "school": "UC",
+            "startTime": 1356998400
+        }
+    ],
+    "educationLevel": "Masters",
+    "efGender": "female",
+    "efRace": null,
+    "email": "virasilva@email.com",
+    "employeeInfo": {
+        "employeeId": null,
+        "performanceManagement": {
+            "performanceRatings": [],
+            "promotionReadiness": null
+        },
+        "relocationPreferences": null,
+        "successionPlan": {
+            "leaderWithoutPathForward": "True",
+            "successionPlanId": null,
+            "successionPlanMetrics": {
+                "readiness": {
+                    "ready_later": 0,
+                    "ready_now": 0,
+                    "ready_soon": 0
+                }
+            },
+            "successionPlanNotes": [],
+            "successionPlanRole": null,
+            "successors": []
+        }
+    },
+    "endorsements": [],
+    "experiences": [
+        {
+            "addlJson": {},
+            "department": null,
+            "description": "Played a key role in the development of comprehensive financial reports, aiding strategic decision-making.Implemented algorithms for data analysis, contributing to the optimization of financial processes.Utilized Tableau and Grafana for data visualization, enhancing report clarity and accessibility.Proficient in: Machine Learning, Data Cleaning, Power BI, Python, SQL",
+            "durationMonths": 156,
+            "edited": true,
+            "endTime": 1707227721,
+            "experienceKey": null,
+            "industry": null,
+            "isCurrent": false,
+            "isInternal": false,
+            "location": "New York",
+            "skills": [
+                "Deep Learning",
+                "Machine Learning",
+                "Data Cleaning",
+                "Power Bi",
+                "Python",
+                "SQL"
+            ],
+            "startTime": 1299419722,
+            "title": "Senior Data Analyst Consultant",
+            "userVerifiedSkills": false,
+            "work": "Financial Institution"
+        },
+        {
+            "addlJson": {},
+            "department": null,
+            "description": "Led a team of data scientists and analysts in developing predictive models and analytical solutions to solve complex business problems. Collaborated with cross-functional teams to identify opportunities for data-driven decision-making and process optimization. Implemented data pipelines and ETL processes to extract, transform, and load data from various sources. Utilized advanced statistical techniques and machine learning algorithms to extract insights from large datasets. Presented findings and recommendations to senior leadership to drive strategic initiatives.",
+            "durationMonths": 25,
+            "edited": true,
+            "endTime": 1299419721,
+            "experienceKey": null,
+            "industry": null,
+            "isCurrent": false,
+            "isInternal": false,
+            "location": "New York",
+            "skills": [
+                "Machine Learning",
+                "Data Cleaning",
+                "Power Bi",
+                "Python",
+                "SQL"
+            ],
+            "startTime": 1236347721,
+            "title": "Data Analyst",
+            "userVerifiedSkills": false,
+            "work": "Tech Solutions LLC"
+        },
+        {
+            "addlJson": {},
+            "department": null,
+            "description": "Led a team of data scientists and analysts in developing predictive models and analytical solutions to solve complex business problems. Collaborated with cross-functional teams to identify opportunities for data-driven decision-making and process optimization. Implemented data pipelines and ETL processes to extract, transform, and load data from various sources. Utilized advanced statistical techniques and machine learning algorithms to extract insights from large datasets. Presented findings and recommendations to senior leadership to drive strategic initiatives.",
+            "durationMonths": 25,
+            "edited": true,
+            "endTime": 1236347722,
+            "experienceKey": null,
+            "industry": null,
+            "isCurrent": false,
+            "isInternal": false,
+            "location": "New York",
+            "skills": [
+                "Deep Learning",
+                "Data Cleaning",
+                "Power Bi",
+                "Python",
+                "SQL"
+            ],
+            "startTime": 1173206432,
+            "title": "Data Scientist",
+            "userVerifiedSkills": false,
+            "work": "Tech Solutions LLC"
+        }
+    ],
+    "firstName": "Vira",
+    "fullName": "Vira Silva",
+    "gender": "female",
+    "highlights": [],
+    "id": "Yo91BWZ7",
+    "imageUrl": "https://static.vscdn.net/profile/DRqz3Zjo/profile_img_DRqz3Zjo-1701448717.png",
+    "industries": [],
+    "internalGroupAffiliation": [],
+    "jtnAnswers": null,
+    "language": "en",
+    "lastName": "Silva",
+    "lastUpdated": 1709768064,
+    "location": "New York, New York, United States",
+    "patents": [],
+    "phone": "(555) 123-4567",
+    "preferences": {
+        "contactConsent": null
+    },
+    "profileId": 268932054,
+    "profileStagedSections": {
+        "awards": null,
+        "certificates": null,
+        "courses": null,
+        "education": null,
+        "endorsements": null,
+        "experiences": null,
+        "languageProficiencies": null,
+        "patents": null,
+        "projects": null,
+        "publications": null,
+        "skills": null
+    },
+    "projects": [],
+    "publications": [],
+    "race": null,
+    "resumeFileName": "Resume-Yo91BWZ7.txt",
+    "roleId": null,
+    "seniorityLevel": "Senior",
+    "skillGoals": [],
+    "skills": [
+        {
+            "displayName": "Leadership",
+            "evaluations": [],
+            "name": "leadership",
+            "source": null
+        },
+        {
+            "displayName": "SQL",
+            "evaluations": [],
+            "name": "sql",
+            "source": null
+        },
+        {
+            "displayName": "Teamwork",
+            "evaluations": [],
+            "name": "teamwork",
+            "source": null
+        },
+        {
+            "displayName": "Python",
+            "evaluations": [],
+            "name": "python",
+            "source": null
+        },
+        {
+            "displayName": "Statistics",
+            "evaluations": [],
+            "name": "statistics",
+            "source": null
+        },
+        {
+            "displayName": "Algorithms",
+            "evaluations": [],
+            "name": "algorithms",
+            "source": null
+        },
+        {
+            "displayName": "Machine Learning",
+            "evaluations": [],
+            "name": "machine_learning",
+            "source": null
+        },
+        {
+            "displayName": "ETL",
+            "evaluations": [],
+            "name": "etl",
+            "source": null
+        },
+        {
+            "displayName": "Data Visualization",
+            "evaluations": [],
+            "name": "data_visualization",
+            "source": null
+        },
+        {
+            "displayName": "Deep Learning",
+            "evaluations": [],
+            "name": "deep_learning",
+            "source": null
+        },
+        {
+            "displayName": "Statistical Analysis",
+            "evaluations": [],
+            "name": "statistical_analysis",
+            "source": null
+        },
+        {
+            "displayName": "Predictive Modeling",
+            "evaluations": [],
+            "name": "predictive_modeling",
+            "source": null
+        },
+        {
+            "displayName": "Data Cleaning",
+            "evaluations": [],
+            "name": "data_cleaning",
+            "source": null
+        },
+        {
+            "displayName": "General Business",
+            "evaluations": [],
+            "name": "general_business",
+            "source": null
+        }
+    ],
+    "sources": [],
+    "summary": "",
+    "title": "Senior Data Scientist",
+    "urls": [
+        "https://www.linkedin.com/in/virasilva",
+        "https://www.volkscience.com/profile/Yo91BWZ7",
+        "https://www.volkscience.com/profile/Yo91BWZ7?export=import/eightfolddemo-nformal.com/Yo91BWZ7_459ced274931a78f82ee1164467cb32e7105e5556a89609e516e0a4c_1709768051413.txt"
+    ],
+    "workExperienceYears": 17.0
+}

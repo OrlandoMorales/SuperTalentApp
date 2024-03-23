@@ -1,0 +1,350 @@
+{
+    "additionalSections": null,
+    "atsData": {
+        "address": null,
+        "applications": [
+            {
+                "applicationId": "vs-201845657-15710095-1690905883",
+                "applicationTs": 1690905883,
+                "candidateId": "201845657",
+                "creditor": null,
+                "currentStage": {
+                    "reason": null,
+                    "stage": "Added",
+                    "stageTs": 1690905883,
+                    "user": {
+                        "atsRoles": [],
+                        "email": "lea@eightfolddemo-nformal.com",
+                        "name": "Lea Khoury",
+                        "userId": null
+                    },
+                    "wfStage": "Added",
+                    "wfSubStage": null
+                },
+                "customInfo": {
+                    "position_id": "15710095"
+                },
+                "disabilityStatus": null,
+                "gender": "female",
+                "hiredTs": null,
+                "isProspect": false,
+                "jobSystemId": "sourcing",
+                "jobs": [
+                    {
+                        "atsJobId": "15710095",
+                        "name": "Ivy League Alumni - 15710095"
+                    }
+                ],
+                "lastModifiedTs": 1690905883,
+                "location": null,
+                "locationCountry": "",
+                "note": null,
+                "pastStages": [
+                    {
+                        "reason": null,
+                        "stage": "Added",
+                        "stageTs": 1690905883,
+                        "user": {
+                            "atsRoles": [],
+                            "email": "lea@eightfolddemo-nformal.com",
+                            "name": "Lea Khoury",
+                            "userId": null
+                        },
+                        "wfStage": "Added",
+                        "wfSubStage": null
+                    }
+                ],
+                "questions": [],
+                "races": [],
+                "reason": null,
+                "rejectedBy": null,
+                "rejectedTs": null,
+                "scorecards": [],
+                "sourceName": "lea@eightfolddemo-nformal.com",
+                "sourceType": "recruiter",
+                "status": "active",
+                "systemId": "sourcing",
+                "veteranStatus": null,
+                "visaStatuses": []
+            }
+        ],
+        "attachments": [],
+        "candidateId": "201845657",
+        "certifications": [],
+        "contactConsent": null,
+        "courseAttendance": [],
+        "customInfo": null,
+        "dateOfBirth": null,
+        "detailTags": [],
+        "disabilityStatus": null,
+        "displayTags": [],
+        "education": [],
+        "emails": null,
+        "experience": [],
+        "firstName": "Demo",
+        "gender": null,
+        "highestEducationLevel": null,
+        "isAnonymized": false,
+        "isInternal": false,
+        "lastActivityTs": 1690905883,
+        "lastName": "Candidate",
+        "location": null,
+        "locationCountry": null,
+        "notes": [],
+        "phones": null,
+        "photoContent": null,
+        "project": [],
+        "questions": [],
+        "races": [],
+        "resumeContent": null,
+        "scheduledInterviews": [],
+        "skillDetails": [],
+        "skills": [],
+        "summary": null,
+        "systemId": "sourcing",
+        "tags": [],
+        "title": null,
+        "urls": [],
+        "veteranStatus": null,
+        "visaStatuses": []
+    },
+    "atsEntityId": "201845657",
+    "awards": [],
+    "certificates": [],
+    "customFields": {},
+    "customInfo": {},
+    "dupeData": {},
+    "education": [
+        {
+            "awards": [],
+            "degree": "Master of Computer Science",
+            "description": "",
+            "endTime": 1577836800,
+            "location": "",
+            "major": "Computer Science",
+            "school": "Stanford University",
+            "startTime": 1514764800
+        }
+    ],
+    "educationLevel": "Masters",
+    "efGender": "female",
+    "efRace": "asian",
+    "email": "candidate@eightfolddemo-nformal.com",
+    "employeeInfo": {
+        "employeeId": null,
+        "performanceManagement": {
+            "performanceRatings": [],
+            "promotionReadiness": null
+        },
+        "relocationPreferences": null,
+        "successionPlan": {
+            "leaderWithoutPathForward": "True",
+            "successionPlanId": null,
+            "successionPlanMetrics": {
+                "readiness": {
+                    "ready_later": 0,
+                    "ready_now": 0,
+                    "ready_soon": 0
+                }
+            },
+            "successionPlanNotes": [],
+            "successionPlanRole": null,
+            "successors": []
+        }
+    },
+    "endorsements": [],
+    "experiences": [
+        {
+            "addlJson": {
+                "edited_by": [
+                    {
+                        "edited_at": 1690910553,
+                        "email": "thiyagaraj@eightfold.ai"
+                    }
+                ],
+                "src": "edit"
+            },
+            "department": null,
+            "description": "",
+            "durationMonths": 39,
+            "edited": true,
+            "endTime": 1710880944,
+            "experienceKey": null,
+            "industry": null,
+            "isCurrent": true,
+            "isInternal": null,
+            "location": "San Francisco, CA",
+            "skills": [
+                "Java",
+                "C++",
+                "Software Development",
+                "C",
+                "Python",
+                "Linux",
+                "Agile Methodologies"
+            ],
+            "startTime": 1609459200,
+            "title": "Senior Software Engineer",
+            "userVerifiedSkills": true,
+            "work": "Google"
+        },
+        {
+            "addlJson": {
+                "edited_by": [
+                    {
+                        "edited_at": 1690910506,
+                        "email": "thiyagaraj@eightfold.ai"
+                    }
+                ],
+                "src": "edit"
+            },
+            "department": null,
+            "description": "",
+            "durationMonths": 13,
+            "edited": true,
+            "endTime": 1609459200,
+            "experienceKey": null,
+            "industry": null,
+            "isCurrent": false,
+            "isInternal": null,
+            "location": "San Francisco, CA",
+            "skills": [
+                "Java",
+                "JavaScript",
+                "Software Development",
+                "C++",
+                "Python"
+            ],
+            "startTime": 1577836800,
+            "title": "Software Engineer",
+            "userVerifiedSkills": true,
+            "work": "Amazon"
+        }
+    ],
+    "firstName": "Demo",
+    "fullName": "Demo Candidate",
+    "gender": "female",
+    "highlights": [
+        "Went to 1 top school: Stanford University"
+    ],
+    "id": "KbEvR28Q",
+    "imageUrl": "",
+    "industries": [],
+    "internalGroupAffiliation": [],
+    "jtnAnswers": null,
+    "language": "en",
+    "lastName": "Candidate",
+    "lastUpdated": 1692199407,
+    "location": "San Francisco, CA",
+    "patents": [],
+    "phone": "",
+    "preferences": {
+        "contactConsent": null
+    },
+    "profileId": 201845657,
+    "profileStagedSections": {
+        "awards": null,
+        "certificates": null,
+        "courses": null,
+        "education": null,
+        "endorsements": null,
+        "experiences": null,
+        "languageProficiencies": null,
+        "patents": null,
+        "projects": null,
+        "publications": null,
+        "skills": null
+    },
+    "projects": [],
+    "publications": [],
+    "race": null,
+    "resumeFileName": null,
+    "roleId": null,
+    "seniorityLevel": "Senior",
+    "skillGoals": [],
+    "skills": [
+        {
+            "displayName": "Java",
+            "evaluations": [],
+            "name": "java",
+            "source": null
+        },
+        {
+            "displayName": "JavaScript",
+            "evaluations": [],
+            "name": "javascript",
+            "source": null
+        },
+        {
+            "displayName": "Software Development",
+            "evaluations": [],
+            "name": "software_development",
+            "source": null
+        },
+        {
+            "displayName": "C++",
+            "evaluations": [],
+            "name": "c++",
+            "source": null
+        },
+        {
+            "displayName": "Python",
+            "evaluations": [],
+            "name": "python",
+            "source": null
+        },
+        {
+            "displayName": "C",
+            "evaluations": [],
+            "name": "c",
+            "source": null
+        },
+        {
+            "displayName": "Linux",
+            "evaluations": [],
+            "name": "linux",
+            "source": null
+        },
+        {
+            "displayName": "Agile Methodologies",
+            "evaluations": [],
+            "name": "agile_methodologies",
+            "source": null
+        },
+        {
+            "displayName": "Java",
+            "evaluations": [],
+            "name": "java",
+            "source": null
+        },
+        {
+            "displayName": "Research",
+            "evaluations": [],
+            "name": "research",
+            "source": null
+        },
+        {
+            "displayName": "Software Development",
+            "evaluations": [],
+            "name": "software_development",
+            "source": null
+        },
+        {
+            "displayName": "Teaching",
+            "evaluations": [],
+            "name": "teaching",
+            "source": null
+        }
+    ],
+    "sources": [
+        {
+            "datetime": "2023-08-01T16:04:43+00:00",
+            "sourceName": "eightfolddemo-nformal.com",
+            "sourceType": "ats"
+        }
+    ],
+    "summary": "",
+    "title": "",
+    "urls": [],
+    "workExperienceYears": 4.2
+}

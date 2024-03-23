@@ -1,0 +1,23 @@
+{
+    "calibrationConfirmedAt": 1701210470,
+    "calibrationConfirmedBy": "api@eightfolddemo-nformal.com",
+    "confidential": false,
+    "createdBy": "nFormal",
+    "followers": [],
+    "groupId": "eightfolddemo-nformal.com",
+    "hiringManager": {
+        "email": null,
+        "name": null
+    },
+    "jobDescription": null,
+    "name": "Senior Marketing Manager",
+    "open": true,
+    "positionDisplayId": null,
+    "positionId": 19381792,
+    "recruiter": {
+        "email": "api@eightfolddemo-nformal.com",
+        "name": "Api User"
+    },
+    "role": null,
+    "systemId": null
+}

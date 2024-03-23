@@ -1,0 +1,33 @@
+{
+    "data": [
+        {
+            "candidateInsights": null,
+            "fullName": "Emma Smith",
+            "matchScore": 4.5,
+            "missingSkills": [
+                "Power Bi"
+            ],
+            "profileId": "DRqz3Zjo",
+            "skillScoreRelevance": 5.0,
+            "titleScoreRelevance": 4.0,
+            "validatedSkills": []
+        },
+        {
+            "candidateInsights": [
+                "competitor"
+            ],
+            "fullName": "Vira Silva",
+            "matchScore": 4.5,
+            "missingSkills": [],
+            "profileId": "Yo91BWZ7",
+            "skillScoreRelevance": 5.0,
+            "titleScoreRelevance": 5.0,
+            "validatedSkills": []
+        }
+    ],
+    "meta": {
+        "pageStartIndex": 0,
+        "pageTotalCount": 2,
+        "totalCount": 13
+    }
+}

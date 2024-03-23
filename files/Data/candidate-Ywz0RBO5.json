@@ -1,0 +1,208 @@
+{
+    "additionalSections": null,
+    "atsData": null,
+    "atsEntityId": null,
+    "awards": [],
+    "certificates": [],
+    "customFields": {},
+    "customInfo": {},
+    "dupeData": {},
+    "education": [
+        {
+            "awards": [],
+            "degree": "Master of Business Administration (MBA",
+            "description": "Master of Business Administration (MBA) | Top-ranked Business School, UK | 2008",
+            "endTime": 1199145600,
+            "location": "",
+            "major": "",
+            "school": "Top-ranked Business School, UK",
+            "startTime": 0
+        },
+        {
+            "awards": [],
+            "degree": "Chartered Institute of Marketing (CIM) Certification",
+            "description": "",
+            "endTime": 1325376000,
+            "location": "",
+            "major": "",
+            "school": "",
+            "startTime": 0
+        },
+        {
+            "awards": [],
+            "degree": "Member, Institute of Directors (IOD",
+            "description": "",
+            "endTime": 0,
+            "location": "",
+            "major": "",
+            "school": "",
+            "startTime": 0
+        }
+    ],
+    "educationLevel": "Masters",
+    "efGender": "male",
+    "efRace": "hispanic",
+    "email": "alberto.lopez@mailinator.com",
+    "employeeInfo": {
+        "employeeId": null,
+        "performanceManagement": {
+            "performanceRatings": [],
+            "promotionReadiness": null
+        },
+        "relocationPreferences": null,
+        "successionPlan": {
+            "leaderWithoutPathForward": "True",
+            "successionPlanId": null,
+            "successionPlanMetrics": {
+                "readiness": {
+                    "ready_later": 0,
+                    "ready_now": 0,
+                    "ready_soon": 0
+                }
+            },
+            "successionPlanNotes": [],
+            "successionPlanRole": null,
+            "successors": []
+        }
+    },
+    "endorsements": [],
+    "experiences": [
+        {
+            "addlJson": {
+                "src": "resume"
+            },
+            "department": null,
+            "description": "*\tSpearheaded product marketing initiatives for cutting-edge technology solutions, resulting in a 25% increase in market share.\r\n*\tDeveloped and executed comprehensive marketing strategies, including market segmentation and targeted positioning.",
+            "durationMonths": 99,
+            "edited": null,
+            "endTime": 1710868421,
+            "experienceKey": null,
+            "industry": null,
+            "isCurrent": true,
+            "isInternal": null,
+            "location": "London, UK",
+            "skills": [],
+            "startTime": 1451606400,
+            "title": "Senior Marketing Manager",
+            "userVerifiedSkills": false,
+            "work": "Tech Dynamics Ltd"
+        },
+        {
+            "addlJson": {
+                "src": "resume"
+            },
+            "department": null,
+            "description": "*\tLed cross-functional teams in the development and execution of successful product launches.\r\n*\tConducted market research to identify trends and opportunities, informing strategic marketing decisions.",
+            "durationMonths": 97,
+            "edited": null,
+            "endTime": 1451606400,
+            "experienceKey": null,
+            "industry": null,
+            "isCurrent": false,
+            "isInternal": null,
+            "location": "London, UK",
+            "skills": [],
+            "startTime": 1199145600,
+            "title": "Marketing Manager | Major Tech Company",
+            "userVerifiedSkills": false,
+            "work": "Company, London, UK"
+        }
+    ],
+    "firstName": "Alberto",
+    "fullName": "Alberto Lopez",
+    "gender": "male",
+    "highlights": [],
+    "id": "Ywz0RBO5",
+    "imageUrl": "https://static.vscdn.net/profile/Ywz0RBO5/profile_img_Ywz0RBO5-1701448886.png",
+    "industries": [],
+    "internalGroupAffiliation": [],
+    "jtnAnswers": null,
+    "language": "en",
+    "lastName": "Lopez",
+    "lastUpdated": 1701448886,
+    "location": "London, United Kingdom",
+    "patents": [],
+    "phone": "+44 20 9876 5432",
+    "preferences": {
+        "contactConsent": null
+    },
+    "profileId": 240175018,
+    "profileStagedSections": {
+        "awards": null,
+        "certificates": null,
+        "courses": null,
+        "education": null,
+        "endorsements": null,
+        "experiences": null,
+        "languageProficiencies": null,
+        "patents": null,
+        "projects": null,
+        "publications": null,
+        "skills": null
+    },
+    "projects": [],
+    "publications": [],
+    "race": null,
+    "resumeFileName": "4719630681643056453-Alberto Lopez.docx",
+    "roleId": null,
+    "seniorityLevel": "Manager",
+    "skillGoals": [],
+    "skills": [
+        {
+            "displayName": "Brand Management",
+            "evaluations": [],
+            "name": "brand_management",
+            "source": null
+        },
+        {
+            "displayName": "Product Marketing",
+            "evaluations": [],
+            "name": "product_marketing",
+            "source": null
+        },
+        {
+            "displayName": "Marketing Strategy",
+            "evaluations": [],
+            "name": "marketing_strategy",
+            "source": null
+        },
+        {
+            "displayName": "Business Administration",
+            "evaluations": [],
+            "name": "business_administration",
+            "source": null
+        },
+        {
+            "displayName": "Strategic Planning",
+            "evaluations": [],
+            "name": "strategic_planning",
+            "source": null
+        },
+        {
+            "displayName": "Marketing Campaigns",
+            "evaluations": [],
+            "name": "marketing_campaigns",
+            "source": null
+        },
+        {
+            "displayName": "Market Research",
+            "evaluations": [],
+            "name": "market_research",
+            "source": null
+        }
+    ],
+    "sources": [
+        {
+            "datetime": "2023-11-28T22:14:56+00:00",
+            "sourceName": "api@eightfolddemo-nformal.com",
+            "sourceType": "import"
+        }
+    ],
+    "summary": "",
+    "title": "",
+    "urls": [
+        "https://www.volkscience.com/profile/Ywz0RBO5?export=import/eightfolddemo-nformal.com/8c84cdaf5cfc5499167ff38f264b7498c368b4b7fec35029854bb886-240175018.docx",
+        "https://www.volkscience.com/profile/Ywz0RBO5"
+    ],
+    "workExperienceYears": 16.2
+}

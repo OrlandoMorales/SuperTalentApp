@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "candidateInsights": null,
+            "fullName": "Demo Candidate",
+            "matchScore": 4.0,
+            "missingSkills": [
+                "Large-Scale Data Processing",
+                "Real-Time Data Analytics",
+                "Server-Side Development",
+                "Front End Development",
+                "Back-End Development",
+                "Database",
+                "Web Development",
+                "Version Control",
+                "Problem Solving",
+                "Data Modeling",
+                "HTML",
+                "SQL"
+            ],
+            "profileId": "KbEvR28Q",
+            "skillScoreRelevance": 4.0,
+            "titleScoreRelevance": 5.0,
+            "validatedSkills": []
+        },
+        {
+            "candidateInsights": [
+                "employee"
+            ],
+            "fullName": "Janette Clover",
+            "matchScore": 4.0,
+            "missingSkills": [
+                "Large-Scale Data Processing",
+                "Real-Time Data Analytics",
+                "Server-Side Development",
+                "Front End Development",
+                "Back-End Development",
+                "Web Development",
+                "Version Control",
+                "Problem Solving",
+                "Data Modeling",
+                "Python"
+            ],
+            "profileId": "DGr8k2mY",
+            "skillScoreRelevance": 4.0,
+            "titleScoreRelevance": 5.0,
+            "validatedSkills": []
+        }
+    ],
+    "meta": {
+        "pageStartIndex": 0,
+        "pageTotalCount": 2,
+        "totalCount": 26
+    }
+}

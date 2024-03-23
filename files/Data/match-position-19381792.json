@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "candidateInsights": null,
+            "fullName": "Alberto Lopez",
+            "matchScore": 4.5,
+            "missingSkills": [
+                "Leadership",
+                "Presentation"
+            ],
+            "profileId": "Ywz0RBO5",
+            "skillScoreRelevance": 4.0,
+            "titleScoreRelevance": 4.0,
+            "validatedSkills": []
+        },
+        {
+            "candidateInsights": [
+                "employee"
+            ],
+            "fullName": "Loretta Lamdin",
+            "matchScore": 4.5,
+            "missingSkills": [
+                "Collaboration",
+                "Presentation"
+            ],
+            "profileId": "KLZMkW2Y",
+            "skillScoreRelevance": 3.0,
+            "titleScoreRelevance": 4.0,
+            "validatedSkills": []
+        }
+    ],
+    "meta": {
+        "pageStartIndex": 0,
+        "pageTotalCount": 2,
+        "totalCount": 13
+    }
+}
