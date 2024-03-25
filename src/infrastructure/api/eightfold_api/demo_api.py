@@ -6,10 +6,6 @@ class DemoApi:
 
     fileSer = FileService()
 
-    # def get_matched_candidates(self):
-    #     data = self.fileSer.read_file("match_positions")
-    #     return data
-
 
     def candidates_info(self, candidate_id: str):
         data = self.fileSer.read_file("DATA",f'candidate-{candidate_id}')

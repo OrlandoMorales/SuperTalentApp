@@ -15,7 +15,6 @@ class ProfilesApi:
     app_config = AppConfiguration()
     message_util = MessagesUtilities()
 
-    #new api client
     rest_client = RestClient(api_config.BASE_EIGHTFOLD_API_ADDRESS, app_config.TOKEN_BEARER)
 
 

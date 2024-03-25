@@ -53,12 +53,6 @@ class RestClient:
                 return response.read().decode("utf-8"), response.status
 
 
-            # if response.getheader("Content-Encoding") == "gzip":
-            #     data = gzip.decompress(response.read())
-            #     return data.decode("utf-8"), response.status
-            # else:
-            #     return response.read().decode("utf-8"), response.status
-
         except Exception as e:
             raise ConnectionError(f"Error sending request: {e}")
 
@@ -71,14 +65,6 @@ class RestClient:
         response_body, status_code = self._send_request("POST", url, headers=headers, data=data)
         return self._handle_response(response_body, status_code)
 
-    # TODO clean this or not  ?? 
-    # def put(self, url, data, headers={}):
-    #     response_body, status_code = self._send_request("PUT", url, headers=headers, data=data)
-    #     return self._handle_response(response_body, status_code)
-
-    # def delete(self, url, headers={}):
-    #     response_body, status_code = self._send_request("DELETE", url, headers=headers)
-    #     return self._handle_response(response_body, status_code)
 
     def _handle_response(self, response_body, status_code):
         try:
